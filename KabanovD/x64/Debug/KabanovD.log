@@ -1,0 +1,89 @@
+﻿  KabanovD.cpp
+C:\Users\Asus\Desktop\KabanovD\KabanovD\Mesh.h(63,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(57,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(92,45): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(93,34): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(94,45): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(96,31): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(97,31): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(98,31): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(122,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(123,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(127,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(128,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(193,27): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(194,27): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(195,27): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(202,27): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(203,27): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(510,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(557,74): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(568,75): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(580,71): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(591,71): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(675,75): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(707,74): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(714,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(723,74): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(752,71): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(811,71): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(823,71): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(837,74): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(876,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(903,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(904,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(908,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(909,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(910,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\KabanovD\KabanovD\KabanovD.cpp(911,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  shader.cpp
+  Source.cpp
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\Asus\Desktop\KabanovD\x64\Debug\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  KabanovD.vcxproj -> C:\Users\Asus\Desktop\KabanovD\x64\Debug\KabanovD.exe
